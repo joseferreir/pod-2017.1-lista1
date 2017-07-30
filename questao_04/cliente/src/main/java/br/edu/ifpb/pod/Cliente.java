@@ -58,7 +58,7 @@ public class Cliente {
         long start = System.currentTimeMillis();
        // Scanner lerDados = new Scanner(System.in);
        //  System.err.println("Informe mensagem");
-        for (int i = 0; i < 10000; i++) {
+        for (int i = 0; i < 1000; i++) {
             
         
          Usuario u = new Usuario("fernanda");
